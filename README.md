@@ -1,11 +1,10 @@
-# 💬 ChatGPT Clone using GROQ API
+# ChatGPT Clone using GROQ API
 
 A powerful and lightweight ChatGPT clone built using the **GROQ API**, featuring a **Flutter frontend** and a **Node.js backend**. This clone supports advanced features like image uploading (via Cloudinary), chat history management, model selection, and more.
 
 ## 🔗 Live Backend URL
 
 **Backend Deployment:** [https://your-backend-link.com](https://your-backend-link.com)  
-_(Replace with your actual deployed URL)_
 
 ---
 
