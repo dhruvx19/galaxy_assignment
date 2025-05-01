@@ -1,0 +1,2 @@
+/Users/dhruvbalchandani/chatgpt_galaxy.ai_assignment/client/chatgpt_galaxy_assignment/android/app/.cxx/Debug/4x72512c/x86_64/CMakeFiles/edit_cache.dir
+/Users/dhruvbalchandani/chatgpt_galaxy.ai_assignment/client/chatgpt_galaxy_assignment/android/app/.cxx/Debug/4x72512c/x86_64/CMakeFiles/rebuild_cache.dir
