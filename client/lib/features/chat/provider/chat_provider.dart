@@ -1,5 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
+import 'package:chatgpt_galaxy_assignment/features/chat/model/chat_model.dart';
+import 'package:chatgpt_galaxy_assignment/features/chat/repo/chat_repo.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:http/http.dart' as http;

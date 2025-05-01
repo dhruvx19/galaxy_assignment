@@ -1,5 +1,5 @@
 import 'package:chatgpt_galaxy_assignment/features/chat/provider/chat_provider.dart';
-import 'package:chatgpt_galaxy_assignment/splash_screen.dart';
+import 'package:chatgpt_galaxy_assignment/features/splash/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
