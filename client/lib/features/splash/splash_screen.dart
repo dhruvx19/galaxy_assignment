@@ -1,5 +1,6 @@
 
 import 'package:chatgpt_galaxy_assignment/designs/app_colors.dart';
+import 'package:chatgpt_galaxy_assignment/features/chat/chat_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 
