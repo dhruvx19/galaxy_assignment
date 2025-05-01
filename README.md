@@ -4,7 +4,7 @@ A powerful and lightweight ChatGPT clone built using the **GROQ API**, featuring
 
 ## 🔗 Live Backend URL
 
-**Backend Deployment:** [https://your-backend-link.com](https://your-backend-link.com)  
+**Backend Deployment:** https://galaxy-ai-assignment.onrender.com
 
 ---
 
@@ -115,6 +115,3 @@ chatgpt-clone/
 - **Frontend:** Flutter, Dart
 - **Backend:** Node.js, Express, Cloudinary
 - **API:** GROQ LLM API
-
-
-Would you like me to help generate a `constants.dart` file or a sample Flutter UI screen for model selection or image chat?
