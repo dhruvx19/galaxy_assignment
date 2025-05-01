@@ -1,11 +1,10 @@
 
 import 'package:chatgpt_galaxy_assignment/designs/app_colors.dart';
-import 'package:chatgpt_galaxy_assignment/features/chats/chat_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 
-class OnbaordingPage extends StatelessWidget {
-  const OnbaordingPage({super.key});
+class SplashScreen extends StatelessWidget {
+  const SplashScreen({super.key});
 
   @override
   Widget build(BuildContext context) {

@@ -1,13 +1,7 @@
-import 'dart:convert';
-import 'dart:io';
-import 'package:chatgpt_galaxy_assignment/features/chats/chat_page.dart';
-import 'package:chatgpt_galaxy_assignment/features/chats/chat_provider.dart';
-import 'package:chatgpt_galaxy_assignment/features/splash/splash_screen.dart';
+import 'package:chatgpt_galaxy_assignment/features/chat/provider/chat_provider.dart';
+import 'package:chatgpt_galaxy_assignment/splash_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:http/http.dart' as http;
 import 'package:provider/provider.dart';
-import 'package:image_picker/image_picker.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 
 void main() {
   runApp(
@@ -33,7 +27,7 @@ class MyApp extends StatelessWidget {
           backgroundColor: Color(0xFF444654),
         ),
       ),
-      home: const OnbaordingPage(),
+      home: const SplashScreen(),
     );
   }
 }
